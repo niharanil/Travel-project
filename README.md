@@ -1,3 +1,8 @@
+Planning to go on a Vacation anytime soon? Make sure to use HappyyTravels. Pack all the important stuff without forgetting anything. Just add the things that you need to carry and check the list before you fly!
+Deployed here - https://happyytravels.netlify.app/
+Happy Travels!!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
